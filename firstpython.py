@@ -1,2 +1,2 @@
 #Print the output
-print("new phyton file Barnum")
+print("new phyton file Barnum teacher")
